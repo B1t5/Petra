@@ -126,7 +126,7 @@ clear
 	chmod 777 shellphish.sh
 
 ###
-	#DevilRat
+	#Evil-Droid
 	cd $HOME/B1t5-RootKit
 	git clone https://github.com/klodi667/devil-rat.git
 	cd Evil-Droid/evilapk
@@ -138,7 +138,7 @@ clear
 	cd TheFatRat
 	chmod 777 setup.sh
 
-	#BotnetMaker
+	#Botnet-Maker
 	cd $HOME/B1t5-RootKit
 	git clone https://github.com/dbayham/botnet-maker.git
 	cd 
@@ -200,6 +200,13 @@ echo "║   [✓] Sqlmap                 ║"
 echo "║   [✓] Recondog               ║"
 echo "║   [✓] Fsociety               ║"
 echo "║   [✓] Shellphish             ║"
+echo "║   [✓] Shellphish             ║"
+echo "║   [✓] Evil-Droid             ║"
+echo "║   [✓] TheFatRat              ║"
+echo "║   [✓] Botnet-Maker           ║"
+echo "║   [✓] Mirai-IOT-Botnet       ║"
+echo "║   [✓] SSH-Botnet             ║"
+echo "║   [✓] BlackNet-PHP-Botnet    ║"
 echo "║                              ║"
 echo "*==============================*"
 echo "                                "
