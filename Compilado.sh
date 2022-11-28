@@ -167,6 +167,12 @@ clear
 	git clone https://github.com/trustedsec/social-engineer-toolkit.git
 	cd 
 	chmod 777 
+	
+	#SQLmap
+	cd $HOME/B1t5-RootKit
+	git clone --depth 1 https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+	cd 
+	chmod 777 
 
 ###
 
@@ -214,6 +220,7 @@ echo "║   [✓] Mirai-IOT-Botnet        ║"
 echo "║   [✓] SSH-Botnet              ║"
 echo "║   [✓] BlackNet-PHP-Botnet     ║"
 echo "║   [✓] Social-Engineer-Toolkit ║"
+echo "║   [✓] SQLmap                  ║"
 echo "║                               ║"
 echo "*===============================*"
 echo "                                "
@@ -222,4 +229,3 @@ echo "Presiona ENTER Para Finalizar   "
 read ENTER
 sleep 1
 clear
-
